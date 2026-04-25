@@ -263,7 +263,7 @@ const App = () => {
               <div className="absolute inset-0 bg-gradient-to-tr from-blue-600/20 to-transparent"></div>
               <img
                 src="/profile.jpg"
-                alt="Profile"
+                alt="profile"
                 className="w-full h-full object-cover grayscale hover:grayscale-0 transition-all duration-700"
               />
               <div className="absolute bottom-6 left-6 right-6 bg-white/90 backdrop-blur-md p-6 rounded-2xl border border-white/20 shadow-xl translate-y-4 group-hover:translate-y-0 transition-transform">
