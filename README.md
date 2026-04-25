@@ -1,36 +1,88 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 👋 Hi, I'm Nattaphol
 
-## Getting Started
+💻 Full Stack Developer | Business Analyst | Enterprise System Developer  
+🏭 Focused on Production Systems, Data Reporting & Business Process Improvement  
+⚡ Laravel | Vue.js | Next.js | SQL Server | Power BI | Microsoft Ecosystem  
+📍 Thailand  
 
-First, run the development server:
+---
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+# 🧠 About Me
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+I am a Full Stack Developer with experience in building enterprise internal systems for production, HR, warehouse, and business reporting.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+I combine development and business analysis to improve workflows, data accuracy, and system efficiency.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+---
 
-## Learn More
+# 🛠 Tech Stack
 
-To learn more about Next.js, take a look at the following resources:
+## 💻 Frontend
+- Vue.js
+- Next.js
+- JavaScript
+- HTML / CSS
+- Basic UI/UX Design
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## ⚙️ Backend
+- PHP (Laravel)
+- REST API Development
+- System Integration
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## 🗄 Database
+- SQL Server
+- MySQL
+- Database Design
+- Query Optimization
+- Reporting SQL
 
-## Deploy on Vercel
+## 🔗 Integration & Microsoft Ecosystem
+- Power BI
+- SharePoint
+- PowerApps
+- Microsoft Dynamics (ERP)
+- Power Automate
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## 📊 Business & Analysis
+- Requirement Gathering
+- System Analysis
+- Process Improvement
+- UAT / System Testing
+- Test Case & Bug Tracking
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+---
+
+# 🚀 Projects (Internal Enterprise Systems)
+
+> ⚠️ All projects are enterprise/internal systems developed for real business operations
+
+## 🏭 Production Monitoring & Reporting System
+- Production tracking (daily / yearly output)
+- SQL reporting for manufacturing data
+- Dashboard for operational visibility
+
+## 📦 Warehouse Data & Reporting System
+- Stock movement tracking
+- SKU data management
+- Inventory reporting using SQL
+
+## 👥 Enterprise HR System
+- Employee data management
+- Organization structure
+- Leave management system
+- Training record tracking
+
+---
+
+# 📈 Currently Learning
+- System Design
+- Clean Architecture
+- Advanced Next.js
+- Data Engineering Concepts
+
+---
+
+# 📫 Contact
+
+📧 Email: jackcafe12322@gmail.com  
+📱 Tel: +66 83 197 3900  
